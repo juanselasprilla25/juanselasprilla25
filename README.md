@@ -9,7 +9,6 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlasprilla)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlasprilla)
 &nbsp;&nbsp;
 
