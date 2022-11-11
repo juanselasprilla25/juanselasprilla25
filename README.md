@@ -1,10 +1,16 @@
 # Hi, I'm Juanse Lasprilla 👋
 
+About me
+
+- Full stack developer with 2-3 years of experience
+- I'm currently learning Vue
+- I'm looking forward to collaborate on open source projects
+
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlasprilla)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlasprilla)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
