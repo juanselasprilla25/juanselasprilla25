@@ -1,6 +1,6 @@
 # Hi, I'm Juanse Lasprilla 👋
 
-About me
+### About me
 
 - Full stack developer with 2-3 years of experience
 - I'm currently learning Vue
