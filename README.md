@@ -2,8 +2,8 @@
 
 ### About me
 
-- Full stack developer with 2-3 years of experience
-- I'm currently learning Vue
+- Full stack developer with 4 years + of experience
+- I'm currently learning Vue and C#
 - I'm looking forward to collaborate on open source projects
 
 ### Connect with me:
